@@ -1,0 +1,13 @@
+html, body {
+  margin: 0 auto;
+  background: #555a56; }
+
+canvas {
+  background: #5e785d;
+  display: block;
+  border: 5px solid #252b25;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 10%; }
+
+/*# sourceMappingURL=casseBrique.css.map */
